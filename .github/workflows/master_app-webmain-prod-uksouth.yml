@@ -48,4 +48,4 @@ jobs:
         app-name: 'app-webmain-prod-uksouth'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_21ef310cb74346b4a06a4752e193acc3 }}
-        images: 'crazdevprod.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_73e189a03ff3478daef6b837ac0b1275 }}/crazdevprod/azdev-space-ui:${{ github.sha }}'
+        images: 'crazdevprod.azurecr.io/azdev-space-ui:${{ github.sha }}'
