@@ -142,7 +142,7 @@
                         </v-card-title>
                     </v-card-item>
                     <v-card-text class="text-teal-accent-4">
-                        <p class="mb-2">
+                        <p class="text-subtitle-1 mb-2">
                             STAR format (Situation, Task, Action, Result)
                         </p>
                         <p class="mb-2">
@@ -193,36 +193,41 @@
                         </v-card-title>
                     </v-card-item>
                     <v-card-text class="text-teal-accent-4">
-                        <p class="mb-2">
-                            <b>Mountain Biking:</b>
-                            <v-spacer></v-spacer>
+                        <p class="text-subtitle-1 mb-2">
+                            Mountain Biking:
+                        </p>
+                        <p>
                             I have a group of friends I ride with weekly and take trips with a few times a year. This year
                             we will be riding in
                             Scotland and the French Alps. I have a GoPro action camera and a drone that I use to get footage
                             for the
                             creation of videos.
                         </p>
-                        <p class="mb-2">
-                            <b>Physical Training:</b>
-                            <v-spacer></v-spacer>
+                        <p class="text-subtitle-1 my-2">
+                            Physical Training:
+                        </p>
+                        <p>
                             I am training for an Iron Man so most days I either swim, run or cycle.
                         </p>
-                        <p class="mb-2">
-                            <b>Paddle Boarding:</b>
-                            <v-spacer></v-spacer>
+                        <p class="text-subtitle-1 my-2">
+                            Paddle Boarding:
+                        </p>
+                        <p>
                             During the warmer months I try to get on the water as
                             often as possible. The Lake District is my preferred destination and I usually combine this with
                             camping.
                         </p>
-                        <p class="mb-2">
-                            <b>Yoga:</b>
-                            <v-spacer></v-spacer>
+                        <p class="text-subtitle-1 my-2">
+                            Yoga:
+                        </p>
+                        <p>
                             A recent addition to my schedule in an attempt to avoid injury with the added benefits of
                             relaxation and meditation.
                         </p>
-                        <p class="mb-2">
-                            <b>Reading:</b>
-                            <v-spacer></v-spacer>
+                        <p class="text-subtitle-1 my-2">
+                            Reading:
+                        </p>
+                        <p>
                             This year I have read The Art of Resiliance by Ross Edgely, Building Microservices by
                             Sam Newman, The Governor by Vanessa Frake, The Unexpected Joy of Being Sober by Catherine Gray
                             and some of Atomic Habits by James Clear.

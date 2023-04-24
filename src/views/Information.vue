@@ -25,7 +25,7 @@
                             I intend to use Pulumi to deploy the required Azure Cloud infrastructure, code, data and other
                             artifacts required for this website.
                         </p>
-                        <p>The first version of this will include:</p>
+                        <p>The first version will include:</p>
                         <ul class="pl-3 my-2">
                             <li>Azure Cloud: [ "App Configuration Service" , "Keyvault", "Container Registry", "Cosmos DB",
                                 "App Service", "SQL", "Storage" ]</li>
