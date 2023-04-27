@@ -30,7 +30,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: crazdevprod.azurecr.io/azdev-space-ui:${{ github.sha }}
+        tags: crdevuksouth2bb18240.azurecr.io/azdev-space-ui:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
@@ -48,4 +48,4 @@ jobs:
         app-name: 'app-webmain-prod-uksouth'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_21ef310cb74346b4a06a4752e193acc3 }}
-        images: 'crazdevprod.azurecr.io/azdev-space-ui:${{ github.sha }}'
+        images: 'crdevuksouth2bb18240.azurecr.io/azdev-space-ui:${{ github.sha }}'
