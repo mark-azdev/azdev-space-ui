@@ -22,7 +22,7 @@ jobs:
     - name: Log in to registry
       uses: docker/login-action@v1
       with:
-        registry: https://crazdevprod.azurecr.io/
+        registry: https://crdevuksouth2bb18240.azurecr.io/
         username: ${{ secrets.AzureAppService_ContainerUsername_73e189a03ff3478daef6b837ac0b1275 }}
         password: ${{ secrets.AzureAppService_ContainerPassword_a7ed18cd51894f0eb5d468b40db499cf }}
 

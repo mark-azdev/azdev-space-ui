@@ -9,7 +9,9 @@
                         </v-card-title>
                     </v-card-item>
                     <v-card-text class="text-teal-accent-4">
-                        <p class="text-subtitle-1">AzDev is a mash up of Azure and Developer</p>
+                        <p class="text-subtitle-1"><span class="text-lime-accent-3">Az</span>[ure]
+                            <span class="text-lime-accent-3"> Dev</span>[eloper], 
+                            <i class="text-lime-accent-3">ay-zee-dev</i></p>
                         <p class="my-2">
                             This website was initially intended to be a space for me to choose a set of web and Cloud
                             technologies to create a custom Event Based Microservices Architecture Framework that

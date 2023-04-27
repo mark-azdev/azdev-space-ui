@@ -19,9 +19,7 @@
                         </v-card-title>
                     </v-card-item>
                     <v-card-text class="text-teal-accent-4">
-                        A dedicated and friendly developer who aligns teams, technology and processes to enable the
-                        efficient
-                        delivery of quality products.
+                        A dedicated and friendly developer who aligns teams, technology and processes to delivery quality products efficiently.
                     </v-card-text>
                 </v-card>
                 <v-card variant="text">
@@ -33,7 +31,8 @@
                     <v-card-text class="text-teal-accent-4">
                         <p class="mb-2">
                             I am a Senior Developer with 23 years of experience working with web technologies.
-                            Having worked in a wide range of industries with teams of varying skill and size using numerous development processes
+                            Having worked in a wide range of industries with teams of varying skills and sizes using numerous
+                            development processes
                             I have become adept at solutionising, strategising and communicating. As a result I have
                             naturally
                             evolved into a Technical Lead whose responsibilites have included interviewing, on-boarding,
@@ -48,7 +47,8 @@
                         <p>
                             When I am not performing any of the above you can expect to find me with my sleeves rolled up
                             working
-                            on some coding or infrastructure task usually in Visual Studio, VS Code, Powershell, Azure Devops or the Azure
+                            on some coding or infrastructure task usually in Visual Studio, VS Code, Powershell, Azure
+                            Devops or the Azure
                             Portal.
                         </p>
                     </v-card-text>
@@ -167,7 +167,8 @@
                             <li>Identification and phased removal of unused Azure Native Services</li>
                             <li>Downgrading of Pricing Plans where applicable</li>
                             <li>Cost savings in the region of £80K a year</li>
-                            <li>Identification of Azure Native Services reaching end of life i.e. Classic Cloud Services</li>
+                            <li>Identification of Azure Native Services reaching end of life i.e. Classic Cloud Services
+                            </li>
                             <li>Implementation of Azure Governance and Policies</li>
                             <li>Improved security using Azure Keyvault, AD and App Configuration</li>
                             <li>Phased migration to Azure Functions, Logic Apps and App Services</li>
@@ -241,14 +242,14 @@
                         </v-card-title>
                     </v-card-item>
                     <v-card-text class="text-teal-accent-4">
-                        You should hire me if you value somebody with a holistical approach to problem solving. 
-                        I am somebody who likes to fully understand a problem so that I can apply a higher level of 
+                        You should hire me if you value somebody with a holistical approach to problem solving.
+                        I am somebody who likes to fully understand a problem so that I can apply a higher level of
                         thinking and find opportunities to do better. I don't want to just pick tasks of the board,
                         write some code and move the task right. I want to see if there is an opportunity to exceed
                         expectation with every task. This could manifest itself as a conversation that results in a
                         modified requirement that produces a better feature, some automation that reduces future work,
                         better test automation or a more efficient feature in terms of cost and or availability for example.
-                
+
                     </v-card-text>
                 </v-card>
             </v-col>
