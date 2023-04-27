@@ -45,7 +45,7 @@ jobs:
       id: deploy-to-webapp
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'app-webmain-prod-uksouth'
+        app-name: 'webMainAppc48ac224'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_21ef310cb74346b4a06a4752e193acc3 }}
         images: 'crdevuksouth2bb18240.azurecr.io/azdev-space-ui:${{ github.sha }}'
