@@ -48,12 +48,13 @@ const toggleTheme = () => {
 };
 
 const title = props.display.lgAndUp.value ? 
-    ".Net Developer / Azure Engineer / Front End Handyman" : "Full-stack Developer";
+    "AI Enthusiast / .Net Developer / Azure Engineer / Full-Stack Developer" : "Full-Stack Developer";
 
 function GetHeaderClass(index: number) {
     if(index / 1 === 1) return "text-lime-accent-3"
     if(index / 2 === 1) return "text-cyan-accent-3"
     if(index / 3 === 1) return "text-teal-accent-3"
+    if(index / 4 === 1) return "text-lime-accent-3"
 }
 
 </script>
