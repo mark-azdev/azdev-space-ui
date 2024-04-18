@@ -5,39 +5,54 @@
                 <v-card variant="text">
                     <v-card-item>
                         <v-card-title class="text-left text-cyan-accent-3">
-                            Why AzDev.Space?
+                            About This Site
                         </v-card-title>
                     </v-card-item>
                     <v-card-text class="text-teal-accent-4">
-                        <p class="text-subtitle-1"><span class="text-lime-accent-3">Az</span>[ure]
-                            <span class="text-lime-accent-3"> Dev</span>[eloper], 
-                            <i class="text-lime-accent-3">ay-zee-dev</i></p>
                         <p class="my-2">
-                            This website was initially intended to be a space for me to choose a set of web and Cloud
-                            technologies to create a custom Event Based Microservices Architecture Framework that
-                            I can use for future projects. The initial use case is a responsive website that allows me to
-                            collate and present information relating to my career history and future ambitions in a
-                            modern layout. My current thinking is that I will expand this to allow for other job seekers to
-                            create their own profiles and for recruiters to be able to search for suitable candidates.
+                            Welcome to my professional hub, a platform dedicated to exploring and advancing the intersection of AI technology and social impact.
                         </p>
-                        <p class="text-subtitle-1">
-                            The Theory
-                        </p>
-                        <p class="text-subtitle-2 my-2">
-                            I intend to use Pulumi to deploy the required Azure Cloud infrastructure, code, data and other
-                            artifacts required for this website.
-                        </p>
-                        <p>The first version will include:</p>
-                        <ul class="pl-3 my-2">
-                            <li>Azure Cloud: [ "App Configuration Service" , "Keyvault", "Container Registry", "Cosmos DB",
-                                "App Service", "SQL", "Storage" ]</li>
-                            <li>Front End: [ "Vue 3", "Vite", "Pinia", "Axios", "GraphQL", "Vuetify", "Typescript",
-                                "Vitest", "Playwright" ]</li>
-                            <li>Back End: [".Net 8", "C#", "Web API", "EF Core", "Curity", "FluentValidation", "XUnit", "Moq"]</li>
-                            <li>Devops: ["Pulumi", "Git", "GitKraken", "Azure Devops", "Powershell", "Docker"]</li>
-                        </ul>
                     </v-card-text>
                 </v-card>
+                <v-card variant="text">
+                    <v-card-item>
+                        <v-card-title class="text-left text-cyan-accent-3">
+                            My Mission
+                        </v-card-title>
+                    </v-card-item>
+                    <v-card-text class="text-teal-accent-4">
+                        <p class="my-2">
+                            I founded this site as a reflection of my journey and as a beacon for potential collaborations that can drive meaningful change. As the founder of an innovative AI company, my mission is to develop solutions that enhance lives through intelligent technology, while adhering to the highest standards of ethics and sustainability.
+                        </p>
+                    </v-card-text>
+                </v-card>
+                <v-card variant="text">
+                    <v-card-item>
+                        <v-card-title class="text-left text-cyan-accent-3">
+                            Why AI and Health and Wellbeing?
+                        </v-card-title>
+                    </v-card-item>
+                    <v-card-text class="text-teal-accent-4">
+                        <p class="my-2">
+                            The potential of AI to transform everyday health and wellbeing is immense—from improving diagnostic systems to enhancing personalized medicine and beyond. My focus is on creating applications that are not only technologically advanced but are also accessible and beneficial to diverse communities.
+                        </p>
+                    </v-card-text>
+                </v-card>
+                <v-card variant="text">
+                    <v-card-item>
+                        <v-card-title class="text-left text-cyan-accent-3">
+                            Join the Journey
+                        </v-card-title>
+                    </v-card-item>
+                    <v-card-text class="text-teal-accent-4">
+                        <p class="mb-2">
+                            Whether you’re a potential partner, a fellow technologist, or someone interested in the power of AI to change lives, I invite you to join me in this exciting venture. Together, we can push the boundaries of what technology can achieve in making our world a healthier, more equitable place.
+                        </p>
+                        <p>
+                            Feel free to reach out through using the email link below, follow our updates, and become a part of this transformative journey.
+                        </p>
+                    </v-card-text>
+                </v-card>                        
             </v-col>
         </v-row>
     </v-container>
